@@ -4,9 +4,10 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>コンフォートカード</title>
+<link rel="stylesheet" href="css/comfortCard.css">
 </head>
 <body>
-
+<h1>コンフォートカード</h1>
 </body>
 </html>
