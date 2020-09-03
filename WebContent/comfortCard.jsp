@@ -5,7 +5,7 @@
 <head>
 <meta charset="UTF-8">
 <title>コンフォートカード</title>
-<link rel="stylesheet" href="css/comfortCard.css">
+<link rel="stylesheet" href="css/application.css">
 </head>
 <body>
 	<div class = "content">

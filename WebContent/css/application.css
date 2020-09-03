@@ -1,0 +1,30 @@
+.content {
+  text-align: center;
+}
+
+.content .form {
+  width: 1000px;
+  margin: 0 auto;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.content .form .box {
+  width: 500px;
+}
+
+.content .form .box-left {
+  background-color: rgba(160, 82, 45, 0.8);
+}
+
+.content .form .box-right {
+  background-color: rgba(0, 255, 0, 0.8);
+}
+
+.content .submit {
+  margin-top: 10px;
+  height: 40px;
+  width: 80px;
+}
+/*# sourceMappingURL=application.css.map */
