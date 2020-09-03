@@ -9,5 +9,18 @@
 </head>
 <body>
 <h1>コンフォートカード</h1>
+		<p>右側にそんな自分に対して優しく慰めの言葉を書いていこう！</p>
+		<form action="">
+			<div class="left">
+				<p>例）先延ばしをしてしまった。自分はなんてダメな奴なんだ・・・</p>
+				<textarea cols="40" rows="15" wrap="hard"></textarea>
+			</div>
+			<div class = "right">
+				<p>例）大丈夫、みんな同じ、そんな時もあるさ。</p>
+				<textarea cols="40" rows="15" wrap="hard"></textarea>
+			</div>
+			<input type="submit" value="保存する">
+		</form>
+	</div>
 </body>
 </html>
