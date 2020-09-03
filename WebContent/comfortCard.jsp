@@ -15,15 +15,17 @@
 		</p>
 		<p>右側にそんな自分に対して優しく慰めの言葉を書いていこう！</p>
 		<form action="">
-			<div class="left">
-				<p>例）先延ばしをしてしまった。自分はなんてダメな奴なんだ・・・</p>
-				<textarea cols="40" rows="15" wrap="hard"></textarea>
+			<div class="form">
+				<div class="box">
+					<p>例）先延ばしをしてしまった。自分はなんてダメな奴なんだ・・・</p>
+					<textarea class="box-left" cols="40" rows="15" wrap="hard"></textarea>
+				</div>
+				<div class = "box">
+					<p>例）大丈夫、みんな同じ、そんな時もあるさ。</p>
+					<textarea class="box-right" cols="40" rows="15" wrap="hard"></textarea>
+				</div>
 			</div>
-			<div class = "right">
-				<p>例）大丈夫、みんな同じ、そんな時もあるさ。</p>
-				<textarea cols="40" rows="15" wrap="hard"></textarea>
-			</div>
-			<input type="submit" value="保存する">
+			<input class="submit" type="submit" value="保存する">
 		</form>
 	</div>
 </body>
