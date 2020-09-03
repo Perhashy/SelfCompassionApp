@@ -147,12 +147,25 @@ legend {
   box-sizing: border-box;
 }
 .content {
+  margin-top: 20px;
   text-align: center;
+}
+
+.content h1 {
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.content .message {
+  width: 500px;
+  text-align: left;
+  margin: 20px auto 0;
 }
 
 .content .form {
   width: 1000px;
   margin: 0 auto;
+  padding: 20px;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -160,6 +173,10 @@ legend {
 
 .content .form .box {
   width: 500px;
+}
+
+.content .form .box textarea {
+  margin-top: 10px;
 }
 
 .content .form .box-left {
