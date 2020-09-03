@@ -8,7 +8,11 @@
 <link rel="stylesheet" href="css/comfortCard.css">
 </head>
 <body>
-<h1>コンフォートカード</h1>
+	<div class = "content">
+		<h1>コンフォートカード</h1>
+		<p>辛い体験、自分を責めている時のことを左側に書き出していこう！<br>
+			その時どんな感情か書き出していこう！
+		</p>
 		<p>右側にそんな自分に対して優しく慰めの言葉を書いていこう！</p>
 		<form action="">
 			<div class="left">
